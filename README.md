@@ -12,7 +12,7 @@ Comparison of two approaches for generating Hindi image captions using BLEU scor
 ## 📊 Dataset
 
 - **Training scales:** 1k, 5k, 10k, 15k, 20k images with Hindi/English captions
-- **Evaluation strategy:** 4k image/caption pairs
+- **Evaluation strategy:** 9k image/caption pairs
 
 ## 🏗️ Architecture
 
