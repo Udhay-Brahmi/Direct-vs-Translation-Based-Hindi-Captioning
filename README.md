@@ -11,8 +11,7 @@ Comparison of two approaches for generating Hindi image captions using BLEU scor
 
 ## 📊 Dataset
 
-- **Hindi-Vision-Genome:** 29,000 images with Hindi/English captions
-- **Evaluation scales:** 1k, 5k, 10k, 15k, 20k images
+- **Training scales:** 1k, 5k, 10k, 15k, 20k images with Hindi/English captions
 
 ## 🏗️ Architecture
 
@@ -22,7 +21,7 @@ Comparison of two approaches for generating Hindi image captions using BLEU scor
 
 ## 📈 Results
 
-### BLEU Scores Performance
+### BLEU Scores Performance on 20k training split
 
 | Method | BLEU-1 | BLEU-2 | BLEU-3 | BLEU-4 |
 |--------|--------|--------|--------|--------|
